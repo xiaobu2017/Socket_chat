@@ -39,11 +39,17 @@ quit：退出系统。
 
 **二、系统截图**
 1、服务端
+
 ![image.png](http://124.222.106.130:8081/api/resource/getFile?name=articlePicture/Sara11713087621360161.png)
+
 2、用户（张三）
+
 ![image.png](http://124.222.106.130:8081/api/resource/getFile?name=articlePicture/Sara11713087642913375.png)
+
 3、用户李四
+
 ![image.png](http://124.222.106.130:8081/api/resource/getFile?name=articlePicture/Sara11713087682352999.png)
+
 
 
 1、服务端
